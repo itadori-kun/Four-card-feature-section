@@ -24,10 +24,10 @@ Users should be able to:
 
 ### Screenshot
 Desktop (1440px)
-![](./screenshot.jpg)
+![](./screenshot/desktop-view.png)
 
 Mobile state (375px)
-![](./screenshot.jpg)
+![](./screenshot/Mobile-view.png)
 
 
 ### Links
